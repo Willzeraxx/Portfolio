@@ -1,0 +1,15 @@
+{
+    "projects": [
+    {
+        "title": "Projeto 1 - Parte Baixo (Em Andamento)",
+        "description": "Site Time de Futebol LA Galaxy.",
+        "image": "imagens/galaxy1.png"
+    },
+    {
+        "title": "Projeto 1 - Parte Cima (Em Andamento)",
+        "description": "Site Time de Futebol LA Galaxy.",
+        "image": "imagens/galaxy2.png"
+    }
+]
+
+}
